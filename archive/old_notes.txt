@@ -1,0 +1,5 @@
+Old development reminders:
+
+- update monitoring script
+- check relay latency
+- remove test endpoints before deployment
