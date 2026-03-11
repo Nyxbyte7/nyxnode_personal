@@ -1,0 +1,8 @@
+node_id: NX-03
+status: standby
+relay_port: 4582
+
+monitoring: enabled
+backup_channel: disabled
+
+last_sync: 2023-11-17
