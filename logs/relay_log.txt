@@ -1,0 +1,7 @@
+[03:11:21] Relay initialized
+[03:11:24] Monitoring external traffic
+[03:12:01] Packet forwarded
+[03:12:14] Packet forwarded
+[03:13:02] Node heartbeat OK
+[03:14:07] External packet captured
+[03:14:09] Packet archived for analysis
